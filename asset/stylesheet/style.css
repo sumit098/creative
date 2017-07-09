@@ -1,0 +1,85 @@
+header div.jumbotron{
+	background-image: url(../images/pic.jpg);
+	color: #f50505;
+
+}
+.navbar,
+body{
+	width: 100%;
+}
+.jumbotron{
+	margin-bottom: 0px;
+	
+}
+.col-xs-6,
+.col-md-3{
+	padding: 0px;
+	width:33%;
+}
+.middle{
+	width: 100%
+}
+.middle a.thumbnail{
+	padding: 0px;
+	margin-bottom: 0px;
+	border: 0px;
+}
+.row div.col-md-4{
+	padding: 0px;
+	width: 25%;
+}
+.row div.thumbnail{
+	border:0px;
+
+	padding: 0px;
+}
+.bg-primary div.jumbotron{
+	background-color: #f94e28;
+}
+ hr{
+	margin: 30px auto;
+	max-width: 50px;
+	border-width:3px;
+	border-color: #F05F40;
+}
+.bg-primary div.jumbotron hr{
+	margin: 30px auto;
+	max-width: 50px;
+	border-width:3px;
+	border-color: #fff;
+}
+p{
+	font-size: 16px;
+	margin-bottom: 0px
+}
+.text-primary{
+	color: #F05F40;
+	padding-left: 150px;
+}
+a.thumbnail img {
+	margin-left: 0 ;
+	margin-right: 0;
+	width: 100%;
+	height: 213px;
+}
+img:hover{
+	background-color: #f94e28;
+	opacity: 0.3;
+}
+.bg-dark{
+	background-color: #222;
+}
+.bg-dark h2{
+	color:#fff;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding: 20px;
+}
+.btn-primary{
+	margin-bottom: 20px;
+}
+.jumbotron i.fa-3x{
+	margin-left: 50px;
+	margin-right: 100px;
+	padding: 20px;
+}
